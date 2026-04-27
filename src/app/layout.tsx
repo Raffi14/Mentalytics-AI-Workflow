@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MindScope AI",
+  title: "Mentalytics AI",
   description: "Platform analisis data berbasis AI untuk kesehatan mental remaja",
 };
 
